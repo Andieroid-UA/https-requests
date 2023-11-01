@@ -26,3 +26,28 @@ Need to change link for the Firebase one like this:
 
 https://ng-complete-guide-b53d6-default-rtdb.firebaseio.com/posts.json
 
+## GETting Data
+
+## Using Rx JS Operators to Transform Response Data
+
+## Using Types with the HttpClient
+
+So turns out the question mark next to the id for the string means that the string is OPTIONAL
+
+![Alt text](image-2.png)
+
+## Outputting Posts
+
+## Showing a Loading Indicator
+
+We can show a loading indicator while we're fetching posts. We also added a loading screen!
+
+## Using a Service for Http Requests
+
+![Alt text](image-3.png)
+
+See the highlighted part? We want to eventually replace that with a *service*.
+
+## Services & Components Working Together
+
+(stopped here)
